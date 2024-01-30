@@ -182,7 +182,7 @@ Project Link: [https://github.com/fisaavedrae/desafio_bd_node_i](https://github.
 [license-url]: https://github.com/fisaavedrae/desafio_bd_node_i/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fisaavedrae
-[product-screenshot]: https://github.com/fisaavedrae/desafio_bd_node_i/blob/main/assets/screenshot.png
+[product-screenshot]: https://github.com/fisaavedrae/desafio_bd_node_i/blob/main/frontend/src/assets/screenshot.png
 [Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en
 [Express.js]: https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white
