@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/fisaavedrae/desafio_bd_node_i">
-    <img src="https://fidatech.net/felipe/" alt="Logo" width="80" height="80">
+  <a href="https://fidatech.net/felipe/">
+    <img src="https://github.com/fisaavedrae/desafio_bd_node_i/blob/main/frontend/src/assets/fse_logo_blanco.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Desafío - Like Me (Parte I)</h3>
