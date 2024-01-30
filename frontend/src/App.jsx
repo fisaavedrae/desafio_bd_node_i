@@ -44,7 +44,7 @@ function App() {
 
   // este método se utilizará en el siguiente desafío
   const like = async (id) => {
-    await axios.put(urlBaseServer + `/posts/like/${id}`)
+    await axios.put(urlBaseServer + `/posts/${id}`)
       .catch(function (error) {
         // handle error        
         setMensaje(error.response.data.message);

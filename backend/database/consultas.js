@@ -10,7 +10,7 @@ const getPosts = async (id, titulo, img, descripcion, likes) => {
     }
 }
 
-//Agregar Libros
+
 const addPost = async (titulo, imgSrc, descripcion) => {
     try {
         console.log("url: ", imgSrc)
