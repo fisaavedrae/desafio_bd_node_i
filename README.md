@@ -105,11 +105,13 @@ Esta aplicación React de apoyo incluye las consultas HTTP a un servidor local e
 Para iniciar con el desarrollo de este desafío, ocupa las siguientes instrucciones SQL para
 crear una base de datos likeme y una tabla posts.
 
+```sql
 CREATE DATABASE likeme;
-
+```
+```sql
 CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
 descripcion VARCHAR(255), likes INT);
-
+```
 
 
 ## Requerimientos
