@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/fisaavedrae/desafio_bd_node_i">
-    <img src="https://github.com/fisaavedrae/desafio_bd_node_i/blob/main/frontend/src/assets/fse_logo_blanco.jpg" alt="Logo" width="80" height="80">
+    <img src="https://fidatech.net/felipe/" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Desafío - Like Me (Parte I)</h3>
@@ -70,9 +70,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Desafío - Like Me (Parte I)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://fidatech.net/felipe/)
 
-<ol>
+<ul>
 <li>
 Para realizar este desafío debes haber estudiado previamente todo el material
 disponible correspondiente a la unidad.
@@ -81,11 +81,11 @@ disponible correspondiente a la unidad.
 requerimientos solicitados y sube el .zip en el LMS.</li>
 <li>Puntaje total: 10 puntos</li>
 <li>Desarrollo desafío:
-<ol>
+<ul>
 <li>El desafío se debe desarrollar de manera Individual.</li>
 <li>Para la realización del desafío necesitarás apoyarte del archivo Apoyo Desafío - Like Me (Parte I).</li>
 </li>
-</ol></ol>
+</ul></ul>
 
 ## Descripción
 La red social “Like Me” está apenas iniciando el proceso de desarrollo, se encuentra
@@ -159,7 +159,7 @@ El backend tiene las siguientes rutas
 <!-- CONTACT -->
 ## Contacto
 
-Felipe Saavedra - [@fisaavedrae](https://twitter.com/fisaavedrae) - fisaavedrae@gmail.com
+Felipe Saavedra - [@fisaavedrae](https://fidatech.net/felipe/) - fisaavedrae@gmail.com
 
 Project Link: [https://github.com/fisaavedrae/desafio_bd_node_i](https://github.com/fisaavedrae/desafio_bd_node_i)
 
