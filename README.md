@@ -158,6 +158,15 @@ El backend tiene las siguientes rutas
  nodemon index.js
  ```
 
+ El archivo .env debe ir en la carpeta /backend/servidor/ con las siguientes variables, que se deben completar con la informacion del servidor local
+
+ ```bash
+DB_USER=""
+DB_DATABASE=""
+DB_HOST=""
+DB_PASSWORD=""
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
