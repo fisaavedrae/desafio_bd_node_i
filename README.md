@@ -152,13 +152,13 @@ El backend tiene las siguientes rutas
 <li>DELETE: http://localhost:3000/posts/id</li>
 </ul>
  
- Para iniciar el servidor de Backend, se debe ejecutar el comando, desde la ruta /backend/servidor/ 
+ Para iniciar el servidor de Backend, se debe ejecutar el comando, desde la ruta <b>/backend/servidor/</b> 
 
  ```bash
  nodemon index.js
  ```
 
- El archivo .env debe ir en la carpeta /backend/servidor/ con las siguientes variables, que se deben completar con la informacion del servidor local
+ El archivo .env debe ir en la carpeta <b>/backend/servidor/</b>  con las siguientes variables, que se deben completar con la informacion del servidor local
 
  ```bash
 DB_USER=""
