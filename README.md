@@ -152,6 +152,11 @@ El backend tiene las siguientes rutas
 <li>DELETE: http://localhost:3000/posts/id</li>
 </ul>
  
+ Para iniciar el servidor de Backend, se debe ejecutar el comando, desde la ruta /backend/servidor/ 
+
+ ```bash
+ nodemon index.js
+ ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
